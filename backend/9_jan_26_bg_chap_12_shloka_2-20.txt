@@ -1,0 +1,675 @@
+<sent_id=12_002_1>										
+#मयि आवेश्य मनः ये माम् नित्य-युक्ताः उपासते श्रद्धया परया उपेताः ते मे युक्ततमाः मताः										
+$speaker	1	anim	-	2:k7p	-	-	-	-		
+Af_viS_1	2	-	-	9:rpk	-	-	-	-		
+manas_1	3	-	-	2:k2	-	-	-	-		
+$yax	4	-	pl	9:k1	13:coref	-	-	-		
+$speaker	5	anim	-	9:k2	-	-	-	-		
+niwya_1	6	-	-	-	-	-	-	8:mod		
+yuj_1	7	-	pl	-	-	-	-	8:head		
+[karmaXAraya_1]	8	-	-	4:mod	-	-	-	-		
+upa_As_1	9	-	pl	13:rcelab	-	-	-	-		
+SraxXA_1	10	-	-	12:k3	-	-	-	-		
+parA_1	11	-	-	10:mod	-	-	-	-		
+upa_i_1	12	-	pl	4:mod	-	-	-	-		
+$wyax	13	-	pl	16:k1	-	distal	-	-		
+$speaker	14	anim	-	16:r6	-	-	-	-		
+yukwawama_1	15	-	pl	13:mod	-	-	-	-		
+man_1	16	-	pl	0:main	-	-	-	-		
+%pass_affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_003-004_1>										
+#ये तु अ-क्षरम् अ-निर्देश्यम् अ-व्यक्तम् पर्युपासते सर्वत्र-गम् अ-चिन्त्यम् च कूट-स्थम् अ-चलम् ध्रुवम् संनियम्य इन्द्रिय-ग्रामम् सर्वत्र सम-बुद्धयः ते प्राप्नुवन्ति माम् एव सर्व-भूत-हिते रताः										
+$yax	1	-	pl	11:k1	34:coref	wu_1	-	-		
+a_1	2	-	-	-	-	-	-	4:mod		
+kRara_1	3	-	-	-	-	-	-	4:head		
+[naF-tat_1]	4	-	-	11:k2	-	-	-	-		
+a_1	5	-	-	-	-	-	-	7:mod		
+nir_xiS_1	6	-	-	-	-	-	-	7:head		
+[naF-tat_2]	7	-	-	-	-	-	-	25:op1		
+a_1	8	-	-	-	-	-	-	10:comp1		
+vyakwa_1	9	-	-	-	-	-	-	10:comp2		
+[bahu_1]	10	-	-	-	-	-	-	25:op2		
+pariupaAs_1-we_1	11	-	pl	34:rcelab	-	-	-	-		
+sarvawra_1	12	-	-	-	-	-	-	14:mod		
+ga_1	13	-	-	-	-	-	-	14:head		
+[upa-tat_1]	14	-	-	-	-	-	-	25:op3		
+a_1	15	-	-	-	-	-	-	17:mod		
+ciw_1	16	-	-	-	-	-	-	17:head		
+[naF-tat_3]	17	-	-	-	-	-	-	25:op4		
+kUta_1	18	-	-	-	-	-	-	20:mod		
+sWa_1	19	-	-	-	-	-	-	20:head		
+[upa-tat_2]	20	-	-	-	-	-	-	25:op5		
+a_1	21	-	-	-	-	-	-	23:mod		
+cala_1	22	-	-	-	-	-	-	23:head		
+[naF-tat_4]	23	-	-	-	-	-	-	25:op6		
+Xruva_1	24	-	-	-	-	-	-	25:op7		
+[conj_1]	25	-	-	3:mod	-	-	-	-		
+sam_ni_yam_1	26	-	-	11:rpk	-	-	-	-		
+inxriya_1	27	-	-	-	-	-	-	29:mod		
+grAma_1	28	-	-	-	-	-	-	29:head		
+[6-tat_1]	29	-	-	26:k2	-	-	-	-		
+sarvawra_1	30	-	-	32:k7p	-	-	-	-		
+sama_1	31	-	-	-	-	-	-	33:comp1		
+buxXi_1	32	-	pl	-	-	-	-	33:comp2		
+[bahu_2]	33	-	-	1:mod	-	-	-	-		
+$wyax	34	-	pl	35:k1	-	distal	-	-		
+pra_Ap_1-awi_1	35	-	pl	0:main	-	-	-	-		
+$speaker	36	anim	-	35:k2	-	eva_1	-	-		
+sarva_1	37	-	-	-	-	-	-	40:mod		
+BUwa_1	38	-	-	-	-	-	-	40:head		
+[karmaXAraya_1]	40	-	-	-	-	-	-	41:mod		
+hiwa_1	39	-	-	-	-	-	-	41:head		
+[6-tat_2]	41	-	-	42:k7p	-	-	-	-		
+rawa_1	42	-	pl	34:mod	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_005_1a>										
+#अ-व्यक्ता हि गतिः दुःखम् देहवद्भिः अवाप्यते										
+a_1	1	-	-	-	-	-	-	3:mod		
+vyakwA_1	2	-	-	-	-	-	-	3:head		
+[naF-tat_1]	3	-	-	4:mod	-	-	-	-		
+gawi_1	4	-	-	7:k2	-	-	-	-		
+xuHKa_1	5	-	-	7:krvn	-	-	-	-		
+xehavax_1	6	-	pl	7:k1	-	hi_1	-	-		
+ava_Ap_1-ya_we_1	7	-	-	0:main	-	-	-	-		
+%pass_affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_005_1b>										
+#क्लेशः अधिकतरः तेषाम् अ-व्यक्त-आसक्त-चेतसाम् (अस्ति)										
+kleSa_1	1	-	-	11:k1	-	-	-	-		
+aXikawara_1	2	-	-	1:k1s	-	-	-	-		
+$wyax	3	-	pl	7:mod	-	distal	-	-		
+a_1	4	-	-	-	-	-	-	8:mod		
+vyakwa_1	5	-	-	-	-	-	-	8:head		
+[naF-tat_1]	8	-	-	-	-	-	-	9:mod		
+Asakwa_1	6	-	-	-	-	-	-	9:head		
+[7-tat_1]	9	-	-	-	-	-	-	10:comp1		
+cewas_1	7	-	pl	-	-	-	-	10:comp2		
+[bahu_1]	10	-	-	1:r6	-	-	-	-		
+as_1-awi_1	11	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_006-007_1>										
+#ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्-पराः अन्-अन्येन एव योगेन माम् ध्यायन्तः उपासते तेषाम् अहम् समुद्धर्ता मृत्यु-संसार-सागरात् भवामि नचिरात् पार्थ मयि आवेशित-चेतसाम्										
+$yax	1	-	pl	5:k1	16:coref	wu_1	-	-		
+sarva_1	2	-	pl	3:mod	-	-	-	-		
+karman_1	3	-	pl	5:k2	-	-	-	-		
+xehavax_1	4	-	pl	5:k7p	-	-	-	-		
+sam_ni_as_1	5	-	-	15:rpk	-	-	-	-		
+maw_1	6	-	-	-	-	-	-	8:comp1		
+para_1	7	-	pl	-	-	-	-	8:comp2		
+[bahu_1]	8	-	-	1:mod	-	-	-	-		
+an_1	9	-	-	-	-	-	-	11:comp1		
+ananya_1	10	-	-	-	-	-	-	11:comp2		
+[bahu_2]	11	-	-	12:mod	-	-	-	-		
+samuxXarwq_1	12	-	-	14:k3	-	-	-	-		
+$speaker	13	anim	-	14:k2	-	eva_2	-	-		
+XyE_1	14	-	pl	15:rvks	-	-	-	-		
+upaAs_we_1	15	-	pl	16:rcelab	-	-	-	-		
+$wyax	16	-	pl	18:r6	-	distal	-	-		
+$speaker	17	anim	-	24:k1	-	-	-	-		
+samuxXarwq_1	18	-	-	17:k1s	-	-	-	-		
+mqwyu_1	19	-	-	-	-	-	-	22:mod		
+saMsAra_1	20	-	-	-	-	-	-	22:head		
+[karmaXAraya_1]	22	-	-	-	-	-	-	23:mod		
+sAgara_1	21	-	-	-	-	-	-	23:head		
+[karmaXAraya_2]	23	-	-	18:k5	-	-	-	-		
+BU_1-awi_1	24	-	-	0:main	-	-	-	-		
+nacirAw_1	25	-	-	24:krvn	-	-	-	-		
+pArWa_1	26	male	-	-	-	-	-	31:begin		
+[ne_1]	31	per -   24:rad   -   -   -   -   								
+$speaker	27	anim	-	29:k7p	-	-	-	-		
+AveSiwa_1	28	-	-	-	-	-	-	30:comp1		
+cewas_1	29	-	pl	-	-	-	-	30:comp2		
+[bahu_3]	30	-	-	18:r6	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_008_1a>										
+#मयि (त्वम्) एव मनः आधत्स्व										
+$speaker	1	anim	-	4:k7p	-	eva_2	-	-		
+$addresse	2	anim	-	4:k1	12_009_1b.11:coref	-	-	-		
+manas_1	3	-	-	4:k2	-	-	-	-		
+AfXA_1-awu_1	4	-	-	0:main	-	-	-	-		
+%imperative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_008_1b>										
+#मयि बुद्धिं निवेशय (त्वम्)										
+$speaker	1	anim	-	3:k7p	-	-	-	-		
+buxXi_1	2	-	-	3:k2	-	-	-	-		
+niviS_1-awi_1	3	-	causative	0:main	-	-	-	-		
+$addresse	4	anim	-	3:k1	12_009_1b.11:coref	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_008_1c>										
+#निवसिष्यसि (त्वम्) मयि एव अतः ऊर्ध्वं										
+ni_vas_1-syawi_1	1	-	-	0:main	-	-	-	-		
+$addresse	2	anim	-	1:k1	12_009_1b.11:coref	-	-	-		
+$speaker	3	anim	-	1:k7p	-	eva_2	-	-		
+awaH_1	4	-	-	5:rdl	-	-	-	-		
+UrXvam_1	5	-	-	1:k7t	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_008_1d>										
+#न संशयः (अस्ति)										
+na_1	1	-	-	3:neg	-	-	-	-		
+saMSaya_1	2	-	-	3:k1	-	-	-	-		
+as_1-awi_1	3	-	-	0:main	-	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_009_1a>										
+#अथ चित्तम् समाधातुम् न शक्नोषि मयि स्थिरम् (त्वम्)										
+ciwwa_1	1	-	-	2:k2	-	-	-	-		
+sam_Af_XA_1	2	-	-	4:rt	-	-	-	-		
+[na_1]	3	-	-	4:neg	-	-	-	-		
+Sak_1-awi_1	4	-	-	0:main	-	aWa_1	-	-		
+$speaker	5	anim	-	2:k7p	-	-	-	-		
+sWira_1	6	-	-	2:krvn	-	-	-	-		
+$addressee	7	anim	-	4:k1	12_009_1b.11:coref	-	-	-	
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_009_1b>										
+#अभ्यास-योगेन ततः माम् इच्छ आप्तुम् धनञ्-जय (त्वम्)										
+aByAsa_1	1	-	-	-	-	-	-	3:mod		
+yoga_1	2	-	-	-	-	-	-	3:head		
+[karmaXAraya_1]	3	-	-	6:k3	-	-	-	-		
+$speaker	4	anim	-	6:k2	-	-	-	-		
+iR_1-awu_1	5	-	-	0:main	-	wawaH_1	-	-		
+Ap_1	6	-	kqw	5:rt	-	-	-	-		
+XanaF_1	7	-	-	-	-	-	-	11:begin		
+jaya_1	8	male	-	-	-	-	-	11:inside		
+[ne_1]	11	per	-	5:rad	-	-	-   -			
+$addressee	10	anim	-	5:k1	-	-	-	-	
+%imperative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_010_1a>										
+#अभ्यासे अपि अ-समर्थः असि (त्वम्)										
+aByAsa_1	1	-	-	5:k7p	-	api_1	-	-		
+a_1	2	-	-	-	-	-	-	4:mod		
+samarWa_1	3	-	-	-	-	-	-	4:head		
+[naF-tat_1]	4	-	-	6:k1s	-	-	-	-		
+as_1-awi_1	5	-	-	0:main	-	-	-	-		
+$addressee	6	anim	-	5:k1	12_009_1b.11:coref	-	-	-	
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_010_1b>										
+#मत्-कर्म-परमः भव (त्वम्)										
+maw_1	1	-	-	-	-	-	-	4:mod		
+karma_1	2	-	-	-	-	-	-	4:head		
+[6-tat_1]	4	-	-	-	-	-	-	5:mod		
+parama_1	3	-	-	-	-	-	-	5:head		
+[7-tat_1]	5	-	-	7:k1s	-	-	-	-		
+BU_1-awu_1	6	-	-	0:main	-	-	-	-		
+$addressee	7	anim	-	6:k1	12_009_1b.11:coref	-	-	-		
+%imperative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_010_1c>										
+#मद्-अर्थं अपि कर्माणि कुर्वन् सिद्धिम् अवाप्स्यसि (त्वम्)										
+max_1	1	-	-	-	-	-	-	3:mod		
+arWa_1	2	-	-	-	-	-	-	3:head		
+[cawurWI-wawpuruRaH_1]	3	-	-	5:rt	-	-	-	-		
+karman_1	4	-	pl	5:k2	-	-	-	-		
+kq_1	5	-	kqw	7:rvks	-	api_1	-	-		
+sixXi_1	6	-	-	7:k2	-	-	-	-		
+ava_Ap_1-syawi_1	7	-	-	0:main	-	-	-	-		
+$addressee	8	anim	-	7:k1	12_009_1b.11:coref	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_011_1a>										
+#अथ एतत् अपि अ-शक्तः असि कर्तुम् (त्वम्)										
+$wyax	1	-	-	6:k2	-	proximal	-	-		
+a_1	2	-	-	-	-	-	-	4:mod		
+Sakwa_1	3	-	-	-	-	-	-	4:head		
+[naF-tat_1]	4	-	-	7:k1s	-	-	-	-		
+as_1-awi_1	5	-	-	0:main	-	aWa_1	-	-		
+kq_1	6	-	kqw	3:rt	-	api_	-	-		
+$addressee	7	anim	-	5:k1	12_009_1b.11:coref	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_011_1b>										
+#मद्-योगम् आश्रितः सर्व-कर्म-फल-त्यागम् ततः कुरु (त्वम्) यत्-आत्मवान्										
+max_1	1	-	-	-	-	-	-	3:comp1		
+yoga_1	2	-	-	-	-	-	-	3:comp2		
+[bahu_1]	3	-	-	4:k2	-	-	-	-		
+Af_Sri_1	4	-	-	13:mod	-	-	-	-		
+sarva_1	5	-	-	-	-	-	-	9:mod		
+karman_1	6	-	-	-	-	-	-	9:head		
+[karmaXAraya_1]	9	-	-	-	-	-	-	10:mod		
+Pala_1	7	-	-	-	-	-	-	10:head		
+[RaRTI-wawpuruRa_1]	10	-	-	-	-	-	-	11:mod		
+wyAga_1	8	-	-	-	-	-	-	11:head		
+[6-tat_1]	11	-	-	12:k2	-	-	-	-		
+kq_1-awu_1	12	-	-	0:main	-	wawaH_1	-	-		
+$addressee	13	anim	-	12:k1	12_009_1b.11:coref	-	-	-		
+yaw_1	14	-	-	-	-	-	-	16:comp1		
+Awmavaw_1	15	-	mawupa	-	-	-	-	16:comp2		
+[bahu_2]	16	-	-	13:mod	-	-	-	-		
+%imperative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_012_1a>										
+#ज्ञानात् ध्यानम् विशिष्यते										
+jFAna_1	1	-	-	2:rv	-	-	-	-		
+XyAna_1	2	-	-	3:k1	-	-	-	-		
+vi_SAs_1	3	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_012_1b>										
+#ध्यानात् कर्म-फल-त्यागः (विशिष्यते)										
+XyAna_1	1	-	-	4:rv	-	-	-	-		
+karma_1	2	-	-	-	-	-	-	5:mod		
+Pala_1	3	-	-	-	-	-	-	5:head		
+[RaRTI-wawpuruRaH-_1]	5	-	-	-	-	-	-	6:mod		
+wyAga_1	4	-	-	-	-	-	-	6:head		
+[6-tat_1]	6	-	-	7:k1	-	-	-	-		
+vi_SAs_1	7	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_012_1c>										
+#त्यागात् शान्तिः अनन्तरम् (भवति)										
+wyAga_1	1	-	-	4:rh	-	-	-	-		
+SAnwi_1	2	-	-	4:k1	-	-	-	-		
+ananwara_1	3	-	-	4:k7t	-	-	-	-		
+BU_1-awi_1	4	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_012_1d>										
+#श्रेयः हि ज्ञानम् अभ्यासात् (अस्ति)										
+Sreyas_1	1	-	-	2:k1s	-	-	-	-		
+jFAna_1	2	-	-	4:k1	-	-	-	-		
+aByAsa_1	3	-	-	2:rv	-	hi_1	-	-		
+as_1-awi_1	4	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_13-14_1> 										
+#अ-द्वेष्टा सर्व-भूतानाम् मैत्रः करुणः एव च निर्-ममः निर्-अहङ्कारः सम-दुःख-सुखः क्षमी सन्तुष्टः सततम् योगी यतात्मा दृढ-निश्चयः मयि अर्पित-मनः-बुद्धिः यः मत्-भक्तः सः मे प्रियः अस्ति अस्ति										
+a_1	1	-	-	-	-	-	-	3:mod		
+xveRtq_1	2	-	dl	-	-	-	-	3:head		
+[naF-tat_1]	3	-	-	34:mod	-	-	-	-		
+sarva_1	4	-	-	-	-	-	-	6:mod		
+BUwa_1	5	-	pl	-	-	-	-	6:head		
+[karmaXAraya_1]	6	-	-	7:r6	-	-	-	-		
+mEwra_1	7	-	-	34:mod	-	-	-	-		
+karuNa_1	8	-	-	34:mod	-	eva_2	-	-		
+nir_1	9	-	-	-	-	-	-	11:mod		
+mama_1	10	-	-	-	-	-	-	11:head		
+[5-tat_1]	11	-	-	34:mod	-	-	-	-		
+nir_1	12	-	-	-	-	-	-	14:mod		
+ahafkAra_1	13	-	-	-	-	-	-	14:head		
+[5-tat_2]	14	-	-	34:mod	-	-	-	-		
+sama_1	15	-	-	-	-	-	-	19:comp1		
+xuHKa_1	16	-	-	-	-	-	-	19:comp2		
+[bahu_1]	19	-	-	-	-	-	-	18:op1		
+suKa_1	17	-	-	-	-	-	-	18:op2		
+[xvanxvaH_1]	18	-	-	34:mod	-	-	-	-		
+kRamin_1	20	-	-	34:mod	-	-	-	-		
+sanwuRta_1	21	-	-	34:mod	-	-	-	-		
+sawawam_1	22	-	-	21:krvn	-	-	-	-		
+yogin_1	23	-	-	34:mod	-	-	-	-		
+yawAwman_1	24	-	-	34:mod	-	-	-	-		
+xqDa_1	25	-	-	-	-	-	-	27:comp1		
+niScaya_1	26	-	-	-	-	-	-	27:comp2		
+[bahu_2]	27	-	-	34:mod	-	-	-	-		
+$speaker_1	28	-	-	31:k7	-	-	-	-		
+arpiwa_1	29	-	-	-	-	-	-	33:comp1		
+manas_1	30	-	-	-	-	-	-	33:comp2		
+[bahu_3]	33	-	-	-	-	-	-	32:op1		
+buxXi_1	31	-	-	-	-	-	-	32:op2		
+[xvanxvaH_2]	32	-	-	34:mod	-	-	-	-		
+$yax	34	-	-	41:k1	-	-	-	-		
+$speaker	35	anim	-	-	38:coref	-	-	37:mod		
+Bakwa_1	36	-	-	-	-	-	-	37:head		
+[6-tat_1]	37	-	-	34:mod	-	-	-	-		
+$wyax	38	-	-	42:k1	-	distal	-	-		
+$speaker	39	anim	-	40:r6	-	-	-	-		
+priya_1	40	-	-	38:k1s	-	-	-	-		
+as_1-awi_1	41	-	-	38:rcelab	-	-	-	-		
+as_1-awi_1	42	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_015_1a>										
+#यस्मात् न उद्विजते लोकः										
+$yax	1	-	-	3:k5	12_016_1.18:coref	-	-	-		
+na_1	2	-	-	3:neg	-	-	-	-		
+uxvij_1-we_1	3	-	-	0:main	-	-	-	-		
+loka_1	4	anim	-	3:k1	-	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_015_1b>										
+#लोकात् न उद्विजते च यः										
+loka_1	1	-	-	3:k5	-	-	-	-		
+na_1	2	-	-	3:neg	-	-	-	-		
+uxvij_1-we_1	3	-	-	0:main	12_015_1a.3:samucchaya	ca_1	-	-		
+$yax	4	-	-	3:k1	-	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_015_1c>										
+#हर्ष-अ-मर्ष-भयः-उद्वेगैः मुक्तः यः (अस्ति)										
+harRa_1	1	-	-	-	-	-	-	6:op1		
+a_1	2	-	-	-	-	-	-	6:op2		
+[xvanxvaH_1]	6	-	-	-	-	-	-	8:mod		
+marRa_1	3	-	-	-	-	-	-	8:head		
+[naF-tat_1]	8	-	-	-	-	-	-	7:op1		
+Baya_1	4	-	-	-	-	-	-	7:op2		
+uxvega_1	5	-	pl	-	-	-	-	7:op3		
+[xvanxvaH_2]	7	-	-	9:k3	-	-	-	-		
+muc_1	9	-	-	10:k1s	-	-	-	-		
+$yax	10	-	-	11:k1	-	-	-	-		
+as_1-awi_1	11	-	-	0:main	12_015_1a.3:samucchaya	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_015_1d>										
+#सः च मे प्रियः (अस्ति)										
+$wyax	1	-	-	4:k1	-	distal	-	-		
+$speaker	2	anim	-	3:r6	-	-	-	-		
+priya_1	3	-	-	1:k1s	-	-	-	-		
+as_1-awi_1	4	-	-	0:main	12_015_1a.3:samucchaya	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_016_1>										
+#अन्-अपेक्षः शुचिः दक्षः उदासीनः गत-व्यथः सर्व-आरम्भ-परित्यागी यः मद्-(अस्ति) भक्तः सः मे प्रियः (अस्ति)										
+an_1	1	-	-	-	-	-	-	3:comp1		
+apekRa_1	2	-	-	-	-	-	-	3:comp2		
+[bahu_1]	3	-	-	-	-	-	-	20:op1		
+Suci_1	4	-	-	-	-	-	-	20:op2		
+xakRa_1	5	-	-	-	-	-	-	20:op3		
+uxAsIna_1	6	-	-	-	-	-	-	20:op4		
+gawa_1	7	-	-	-	-	-	-	9:comp1		
+vyaWa_1	8	-	-	-	-	-	-	9:comp2		
+[bahu_2]	9	-	-	-	-	-	-	20:op5		
+sarva_1	10	-	-	-	-	-	-	13:mod		
+AramBa_1	11	-	-	-	-	-	-	13:head		
+[karmaXAraya_1]	13	-	-	-	-	-	-	14:mod		
+pariwyAgin_1	12	-	-	-	-	-	-	14:head		
+[6-tat_1]	14	-	-	-	-	-	-	20:op6		
+$yax	15	-	-	17:k1	21:coref	-	-	-		
+max_1	16	-	-	-	-	-	-	19:mod	
+Bakwa_1	18	-	-	-	-	-	-	19:head	
+[6-tat_2]	19	-	-	-	-	-	-	20:op7		
+as_1-awi_1	17	-	-	21:rcelab	-	-	-	-		
+[conj_1]	20	-	-	17:k1s	-	-	-	-		
+$wyax	21	-	-	24:k1	-	distal	-	-		
+$speaker	22	anim	-	23:r6	-	-	-	-		
+priya_1	23	-	-	21:k1s	-	-	-	-		
+as_1-awi_1	24	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_017_1a>										
+#यः न हृष्यति										
+$yax	1	-	-	3:k1	12_016_1.18:coref	-	-	-		
+na_1	2	-	-	3:neg	-	-	-	-		
+hqR_1-awi_1	3	-	-	0:main	-	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_017_1b>										
+#न द्वेष्टि (यः)										
+na_1	1	-	-	2:neg	-	-	-	-		
+xviR_1-awi_1	2	-	dl	0:main	-	-	-	-		
+$yax	3	-	-	2:k1	12_016_1.18:coref	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_017_1c>										
+#न शोचति (यः)										
+na_1	1	-	-	2:neg	-	-	-	-		
+Suc_1-awi_1	2	-	-	0:main	-	-	-	-		
+$yax	3	-	-	2:k1	12_016_1.18:coref	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_017_1d>										
+#न काङ्क्षति (यः)										
+na_1	1	-	-	2:neg	-	-	-	-		
+kAfkR_1-awi_1	2	-	-	0:main	-	-	-	-		
+$yax	3	-	-	2:k1	12_016_1.18:coref	-	-	-		
+%negative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_017_1e>										
+#शुभ-अ-शुभ-परित्यागी भक्तिमान् यः (अस्ति)										
+SuBa_1	1	-	-	-	-	-	-	5:op1		
+a_1	2	-	-	-	-	-	-	5:op2		
+[xvanxvaH_1]	5	-	-	-	-	-	-	6:mod		
+SuBa_1	3	-	-	-	-	-	-	6:head		
+[naF-tat_1]	6	-	-	-	-	-	-	7:comp1		
+pariwyAgin_1	4	-	-	-	-	-	-	7:comp2		
+[bahu_1]	7	-	-	9:k1s	-	-	-	-		
+Bakwimaw_1	8	-	mawupa	9:k1s	-	-	-	-		
+$yax	9	-	-	10:k1	12_016_1.18:coref	-	-	-		
+as_1-awi_1	10	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_017_1f>										
+#सः मे प्रियः (अस्ति)										
+$wyax	1	-	-	4:k1	12_016_1.18:coref   distal	-	-		
+$speaker	2	anim	-	3:r6	-	-	-	-		
+priya_1	3	-	-	1:k1s	-	-	-	-		
+as_1-awi_1	4	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_018-019_1> 										
+#समः शत्रौ च मित्रे च तथा मान-अपमानयोः शीत-उष्ण-सुख-दुःखेषु समः सङ्ग-विवर्जितः तुल्य-निन्दा-स्तुतिः मौनी सन्तुष्टः येन केनचित् अ-निकेतः स्थिर-मतिः भक्तिमान् मे प्रियः नरः (अस्ति)										
+sama_1	1	-	-	35:mod	-	-	-	-		
+Sawru_1	2	-	-	-	-	-	-	4:op1		
+miwra_1	3	-	-	-	-	-	-	4:op2		
+[conj_1]	4	-	-	1:k7	-	-	-	-		
+mAna_1	5	-	-	-	-	-	-	7:op1		
+apamAna_1	6	-	dl	-	-	-	-	7:op2		
+[xvanxvaH_1]	7	-	-	13:k7	-	-	-	-		
+SIwa_1	8	-	-	-	-	-	-	12:op1		
+uRNa_1	9	-	-	-	-	-	-	12:op2		
+suKa_1	10	-	-	-	-	-	-	12:op3		
+xuHKa_1	11	-	pl	-	-	-	-	12:op4		
+[xvanxvaH_2]	12	-	-	13:k7	-	-	-	-		
+sama_1	13	-	-	35:mod	-	waWA_1	-	-		
+safga_1	14	-	-	-	-	-	-	16:mod		
+vivarjiwa_1	15	-	-	-	-	-	-	16:head		
+[wawIyA-wawpuruRaH_1]	16	-	-	35:mod	-	-	-	-		
+wulya_1	17	-	-	-	-	-	-	21:comp1		
+ninxA_1	18	-	-	-	-	-	-	21:comp2		
+[bahu_1]	21	-	-	-	-	-	-	20:op1		
+swuwi_1	19	-	-	-	-	-	-	20:op2		
+[xvanxvaH_3]	20	-	-	35:mod	-	-	-	-		
+bahuvrIhiH,1._1	22	-	pl	35:mod	-	-	-	-		
+sam_wuR_1	23	-	-	35:mod	-	-	-	-		
+$yax	24	-	-	25:mod	-	-	-	-		
+kiFciw_1	25	-	-	23:rh	-	-	-	-		
+a_1	26	-	-	-	-	-	-	28:comp1		
+nikewa_1	27	-	-	-	-	-	-	28:comp2		
+[bahu_2]	28	-	-	35:mod	-	-	-	-		
+sWira_1	29	-	-	-	-	-	-	31:comp1		
+mawi_1	30	-	-	-	-	-	-	31:comp2		
+[bahu_3]	31	-	-	35:mod	-	-	-	-		
+Bakwimaw_1	32	-	-	35:mod	-	-	-	-		
+$speaker	33	anim	-	34:r6	-	-	-	-		
+priya_1	34	-	-	35:k1s	-	-	-	-		
+nara_1	35	-	-	36:k1	-	-	-	-		
+as_1-awi_1	36	-	-	0:main	-	-	-	-		
+%affirmative										
+</sent_id>
+
+
+
+
+
+<sent_id=12_020_1> 																									
+#ये तु धर्म्य-अमृतम् इदम् यथा उक्तम् पर्युपासते श्रद्दधानाः मत्-परमाः भक्ताः ते अतीव मे प्रियाः (सन्ति)																									
+$yax	1	-	pl	13:mod	14:coref	wu_1	-	-																	
+Xarmya_1	2	-	-	-	-	-	-	4:mod																	
+amqwa_1	3	-	-	-	-	-	-	4:head																	
+[karmaXAraya_1]	4	-	-	8:k2	-	-	-	-																	
+$wyax	5	-	-	3:mod	-	proximal	-	-																	
+yaWA_1	6	-	-	7:krvn	-	-	-	-																	
+vac_1	7	-	pl	3:mod	-	-	-	-																	
+pari_upa_As_1	8	-	pl	14:rcelab	-	-	-	-																	
+SraxxaXAna_1	9	-	pl	13:mod	-	-	-	-																	
+maw_1	10	-	-	-	-	-	-	12:comp1																	
+parama_1	11	-	pl	-	-	-	-	12:comp2																	
+[bahu_1]	12	-	-	13:mod	-	-	-	-																	
+Bakwa_1	13	-	pl	8:k1	-	-	-	-																	
+$wyax	14	-	pl	18:k1	-	distal	-	-																	
+awIva_1	15	-	-	17:intf	-	-	-	-																	
+$speaker	16	anim	-	17:r6	-	-	-	-																	
+priya_1	17	-	pl	14:k1s	-	-	-	-																	
+as_1-awi_1	18	-	pl	0:main	-	-	-	-																	
+%affirmative																									
+</sent_id>																									
+
+
+
