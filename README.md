@@ -4,6 +4,9 @@ A full-stack web application designed to convert Sanskrit Universal Semantic Rep
 This project features a modern, responsive React frontend and a lightweight Flask Python backend that processes semantic text natively in memory.
 
 **Project Structure**
+
+
+
 sanskrit-converter-project/
 ├── backend/                  # Python/Flask server and NLP scripts
 │   ├── server.py             # Main Flask API gateway
